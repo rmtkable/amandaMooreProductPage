@@ -54,10 +54,7 @@ p {
     color: #4a4a4a;
 }
 
-#section {
-    display: block;
-    width: 100%;
-}
+
 
 #header {
     display: flex;
